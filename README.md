@@ -11,3 +11,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhnhutZzz&theme=yeblu&show_icons=true&repo=BaiTap_LTWeb_New)](https://github.com/minhnhutZzz/BaiTap_LTWeb_New)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhnhutZzz&theme=merko&show_icons=true&repo=Demo_SpringBoot)](https://github.com/minhnhutZzz/Demo_SpringBoot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhnhutZzz&theme=outrun&show_icons=true&repo=DoAn_DBMS_QuanLyNhanVien)](https://github.com/minhnhutZzz/DoAn_DBMS_QuanLyNhanVien)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minhnhutZzz&theme=outrun&show_icons=true&repo=Demo_Thymeleaf)](https://github.com/minhnhutZzz/Demo_Thymeleaf)
